@@ -1,7 +1,4 @@
 # Olá, mundo!
- Primeiro repositorio Vercionado
-
- Repositorio da Aula 5 do curso de GIT
 
    Anotação de aula 02 Cap 08:
 atalho para atribuir uma tag rapidamente em um texto utilizando os comandos:
