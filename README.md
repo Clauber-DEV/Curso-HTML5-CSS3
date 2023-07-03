@@ -1,5 +1,41 @@
-# Olá, mundo!
+# Curso de HTML5 &  CSS3 do Guanabara
 
-   Anotação de aula 02 Cap 08:
-atalho para atribuir uma tag rapidamente em um texto utilizando os comandos:
-selecione o texto que queira atribuir a tag e digite, Control + Alt + p, selecione a opção wrap with abbreviation, digite a tag que deseja e parte ENTER.
+Ex 01 resumo:
+    Estrutura básica de um site.
+    se muda a liguadem na tag lang""
+    titulo do site na tag title
+    head == cabeça
+    body == corpo
+    h1 == titulo de lv1
+    p == parágrafo
+    <!-- --> == comentários em HTML  
+Ex 02 resumo:
+   Como escrever Parágrafos e fazer quebras delinhas
+   Tags para simbolos especias, emojis e ondeenontralos
+Ex 03 resumo:
+   Como colocar icone de favorito
+   como carregar imagem internas e externas
+   como colocar ulr da imagem
+Ex 04 resumo:
+   Como criar icones de favoritos e onde fazer ou baixalos
+Ex 05 resumo:
+Ex 06 resumo:
+   Hierarquia de titulos, quantidade de titulos
+   onde e como utlizalos
+Ex 07 resumo:
+   deferença entre THML4 e 5
+   tags obsolatas e onde saber quais tags estâo sendo utilizadas atualmente
+Ex 08 resumo:
+   Formatação de textos parte 1
+      principais tags de formatação
+   Formatação de textos parte 2
+      como colocar citações abreviações e linkas a fraze completa
+Ex 09 resumo:
+   Como montar e ortdenar Listas e suas definições
+Ex 10 resumo:
+   links internos para navegar em outra pagina do mesmo site
+   link externos para navegar em outro site
+   link para dowloads e parametros e arquivos
+Anotações extras:
+   atalho para atribuir uma tag rapidamente em um texto utilizando os comandos:
+   selecione o texto que queira atribuir a tag e digite, Control + Alt + p, selecione a opção wrap with abbreviation, digite a tag que deseja e parte ENTER.
