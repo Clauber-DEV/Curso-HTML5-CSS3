@@ -41,3 +41,9 @@ Anotações extras:
    selecione o texto que queira atribuir a tag e digite, Control + Alt + p, selecione a opção wrap with abbreviation, digite a tag que deseja e parte ENTER.
 Ex 11 resumo:
    Foi explicado o conseito de tamanho de imagens para um site e foram gerados três imagens de tamanhos diferentes.
+   Implementação de áudios direto na tag "audio" e dentro da tag audio utilizando a tag "source"
+   e alguns parametros.
+   quais melhores tipos de audio devemos carregar no site.
+Ex 12 resumo:
+   Conversão de videos e quais formatos mais compativeis em sites.
+   programa para converção de videos HandBrake
