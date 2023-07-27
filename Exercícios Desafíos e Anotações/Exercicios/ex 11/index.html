@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mídias em HTML</title>
 </head>
+
 <body>
     <h1>Imagem dinânica.</h1>
-    <p>Tente abrir a imagem em varios dispositivos diferentes ou simplismente aumente ou diminua a janela de seu navegador.</p>
+    <p>Tente abrir a imagem em varios dispositivos diferentes ou simplismente aumente ou diminua a janela de seu
+        navegador.</p>
 
     <picture>
         <!-- max-width == largura maxima permitida  a ordem dos source devem ser sempre do menor para o maior. -->
@@ -17,5 +20,14 @@
         <!-- (max-width: 1050px) se a janela chegar a menos de 1050px será carregado outra imagem de resolução menor -->
         <img src="imagens/foto-g.png" alt="Imagem flexível"><!-- imagem para acime de 1050px-->
     </picture>
+    <h1>Reproduzindo audios em HTML5</h1>
+    <p>Audio inserido direto na tag "audio"</p>
+    <audio src="Midias/Retribution - NEFFEX.mp3" controls></audio>
+    <p> Audio inserido com a tag "source"</p>
+    <audio preload="metadata" autoplay controls loop> <!-- não recomendado deixar nos parametros "auto" e "none" -->
+        <source src="Midias/Retribution - NEFFEX.mp3" type="audio/mpeg"> <!-- mpeg == pm3 -->
+        <!-- para ter uma boa qualidade no site é recomendado utilzar outros formatos de áudio exemplo: "ogg" e "wav" wav não é recomandado por ser muuito grande -->
+    </audio>
 </body>
+
 </html>
