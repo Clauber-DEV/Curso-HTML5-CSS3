@@ -39,3 +39,5 @@ Ex 10 resumo:
 Anotações extras:
    atalho para atribuir uma tag rapidamente em um texto utilizando os comandos:
    selecione o texto que queira atribuir a tag e digite, Control + Alt + p, selecione a opção wrap with abbreviation, digite a tag que deseja e parte ENTER.
+Ex 11 resumo:
+   Foi explicado o conseito de tamanho de imagens para um site e foram gerados três imagens de tamanhos diferentes.
