@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML</title>
+</head>
+<body>
+    <h1>Imagem dinânica.</h1>
+    <p>Tente abrir a imagem em varios dispositivos diferentes ou simplismente aumente ou diminua a janela de seu navegador.</p>
+
+    <picture>
+        <!-- max-width == largura maxima permitida  a ordem dos source devem ser sempre do menor para o maior. -->
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <!-- (max-windth: 750px) se a janela chegar a menos que 750px será carregada outra imagem com resolução menor. -->
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <!-- (max-width: 1050px) se a janela chegar a menos de 1050px será carregado outra imagem de resolução menor -->
+        <img src="imagens/foto-g.png" alt="Imagem flexível"><!-- imagem para acime de 1050px-->
+    </picture>
+</body>
+</html>
