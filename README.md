@@ -40,10 +40,11 @@ Anotações extras:
    atalho para atribuir uma tag rapidamente em um texto utilizando os comandos:
    selecione o texto que queira atribuir a tag e digite, Control + Alt + p, selecione a opção wrap with abbreviation, digite a tag que deseja e parte ENTER.
 Ex 11 resumo:
-   Foi explicado o conseito de tamanho de imagens para um site e foram gerados três imagens de tamanhos diferentes.
+   Foi explicado o conseito de tamanho de imagens para um site e foram gerados três imagens de tamanhos diferentese e como faz para o site carregar a imagem conforme o tamanho da tela.
    Implementação de áudios direto na tag "audio" e dentro da tag audio utilizando a tag "source"
    e alguns parametros.
    quais melhores tipos de audio devemos carregar no site.
 Ex 12 resumo:
-   Conversão de videos e quais formatos mais compativeis em sites.
+   Conversão de videos e quais formatos mais compatíveis em sites.
    programa para converção de videos HandBrake
+   como cenverter e carregar videos direto no site.

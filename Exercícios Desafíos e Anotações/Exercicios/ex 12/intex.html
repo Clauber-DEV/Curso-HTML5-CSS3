@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos em HTML5</title>
+</head>
+
+<body>
+    <h1>Vídeos hospedados localmente</h1>
+    <p>Este vídeo está hospedado em meu próprio servior.</p>
+
+    <p>Vídeo carregado pela tag video </p>
+    <video poster="mídia/chuva.png" src="mídia/meu-videomp4 .mp4" controls></video>
+    <!-- tag "poster" serve para colocar uma imagem para representa-lo antes dele reproduzir.-->
+    <p>video carregado pela tag source.</p>
+    <video width="500" poster="mídia/chuva.png" controls>
+        <source src="mídia/Meu-Video .webm" type="video/webm">
+    </video>
+    <!-- obs: hospedar videos direto no site dessa forma não é recomendado pois consome muito trafego de dados e se torna muito pesado para o cliente-->
+</body>
+
+</html>
