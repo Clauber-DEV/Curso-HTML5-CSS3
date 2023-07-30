@@ -47,4 +47,4 @@ Ex 11 resumo:
 Ex 12 resumo:
    Conversão de videos e quais formatos mais compatíveis em sites.
    programa para converção de videos HandBrake
-   como cenverter e carregar videos direto no site.
+   como cenverter, carregar videos direto no site e carregar videos externos.
