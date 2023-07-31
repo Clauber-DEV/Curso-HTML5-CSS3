@@ -48,3 +48,6 @@ Ex 12 resumo:
    Conversão de videos e quais formatos mais compatíveis em sites.
    programa para converção de videos HandBrake
    como cenverter, carregar videos direto no site e carregar videos externos.
+Ex 13 resumo:
+   Introdução a utilização das CSS e qual melhor forma de usa-las no código.
+   
