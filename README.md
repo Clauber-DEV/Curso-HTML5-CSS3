@@ -49,4 +49,7 @@ Ex 12 resumo:
    programa para converção de videos HandBrake
    como cenverter, carregar videos direto no site e carregar videos externos.
 Ex 13 resumo:
-   Introdução a utilização das CSS e qual melhor forma de usa-las no código.
+   Introdução a utilização das CSS e qual melhor forma de usa-las no código utilizando a tecnica estilos internos.
+   obs: A tecnica utilizda nesta aula não é recomendada pois é muito mais trabalhosa e deixa o código muito verboso e misturado.
+Ex 14 resumo:
+   Como utilizar as CSS em um local diferente utilizando a técnica de estilos externos onde se aplica todas as CSSs na cabeça do site sendo assim manos trabalhoso e deixando o código limpo e mais facil de interpretar.
