@@ -113,3 +113,27 @@
       Como utilizar estilos externos onde se cria um arquivo somente de CSS que pode ser utilizado em todas as páginas do site criando um link nas páginas de HTML.
 
       obs.: todas as técnicas podem ser utilizadas simultaneamente em um projeto.
+
+Modulo 2
+
+   Ex 16 Resumos:
+
+      Como utilizar cores em um site e tipos de códigos que as representam no VSCode.
+      A psicologia das cores e seus efeitos quando aplicadas no site e quais melhores formas de utilizalas.
+      Hamonia de cores e quantidade normalmente utilizadas em sites e sites de referencia para fazer paleta de cores.
+      Captura de cores em sites e como aplicalas no próprio site.
+      Como aplicar efeito dégradê.
+      Exemplo de site harmônico.
+
+   Ex 17 Resumos:
+
+      Surgimento da tipografia a origem da imprensa de tipos moveis criada pelo Gutenberg para otimozar a fabricação de livros.
+      Ensinado a buscar três conseitos básicos Boas cores, boas imagem e boas letras.
+      Anatomia das letras com os parametros métricos, altura X altura maiuscula, linha acendente, linha descendente e altura do corpo.
+      parametros anatõmicos, serifa, sem serifa, anco, esporão, arco, vertice, calda, terminal, braço, pé, espinha, barriga e olho.
+      Glifos que juntos formam uma fonte que serve de referencia para utilizar no site.
+      fontes com famílias tipográfica e sem famílias tipográfia.
+      catgoria de fontes, serifadas, sem serifas == sans-serif, mono espaçada, escrito a mão == handwriting e comemorativo == display.
+      Fontes, suas famílias e seus efeitos na pagina e como aplicar no CSS.
+      site de referencia de fontes https://www.w3schools.com/js/default.asp
+      Tamanho de fontes, seus parametros e referencias.
