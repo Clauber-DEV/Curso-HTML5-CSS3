@@ -140,4 +140,6 @@ Modulo 2
       peso de fontes e implementação de fontes em shothands
 
    Ex 18 Resumos:
-      Implementação de fontes externas utilizando o Google Fontes 
+      Implementação de fontes externas utilizando o site Google Fontes sendo carregadas online
+      Implementação de fontes externas utilizando o site dafont.
+      como baixar e armazenar a fonte nos arquivos dos site.
