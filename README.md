@@ -137,3 +137,4 @@ Modulo 2
       Fontes, suas famílias e seus efeitos na pagina e como aplicar no CSS.
       site de referencia de fontes https://www.w3schools.com/js/default.asp
       Tamanho de fontes, seus parametros e referencias.
+      peso de fontes e implementação de fontes em shothands
