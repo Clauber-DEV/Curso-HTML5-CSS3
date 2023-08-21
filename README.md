@@ -138,3 +138,6 @@ Modulo 2
       site de referencia de fontes https://www.w3schools.com/js/default.asp
       Tamanho de fontes, seus parametros e referencias.
       peso de fontes e implementação de fontes em shothands
+
+   Ex 18 Resumos:
+      Implementação de fontes externas utilizando o Google Fontes 
