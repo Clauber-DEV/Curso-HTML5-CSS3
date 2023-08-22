@@ -143,3 +143,8 @@ Modulo 2
       Implementação de fontes externas utilizando o site Google Fontes sendo carregadas online
       Implementação de fontes externas utilizando o site dafont.
       como baixar e armazenar a fonte nos arquivos dos site.
+      Como pegar a fontes e suas propriedades com a extenção font nina do Google.
+      Como retirar uma fonte de uma imagem por meio de três sites:
+      https://www.whatfontis.com
+      https://www.fontsquirrel.com
+      https://www.myfonts.com
