@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        /* Seletores personalizados
+           # == id
+           . == class
+           : == pseudo class
+          :: == pseudo element
+           > == filhos*/
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            color: rgb(250, 38, 38);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited {
+            color: rgb(122, 31, 31);
+        }
+
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+
+        a:active {
+            color: yellowgreen;
+        }
+
+        .especial {
+            background-color: rgba(252, 125, 125, 0.582);
+        }
+
+        .especial::before {
+            content: '↠';
+            text-decoration: none;
+            font-weight: normal;
+            color: rgb(81, 81, 82);
+        }
+
+        .especial::after {
+            /* elemnetos se usa :  sub elementos ::*/
+            content: '↞';
+            text-decoration: none;
+            font-weight: normal;
+            color: rgb(81, 81, 82);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="https://github.com/Clauber-DEV" class="especial">repositórios no GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/clauber-cardoso-1b032292/">Linkedin</a></li>
+        <li><a href="https://www.instagram.com/clauber_cp/">Instagran</a></li>
+    </ul>
+</body>
+
+</html>

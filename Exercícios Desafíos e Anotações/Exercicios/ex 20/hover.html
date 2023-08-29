@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Hover</title>
+<style>
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    div > p { /* o simbolo " > " em CSS serve para orientar que oque está dentro do parametro será utilizado
+     no caso os filhos do elemento*/
+        display: none;
+    }
+    div:hover > p {
+        display: block;
+        color: aliceblue;
+        background-color: brown;
+        width: 300px;
+    }
+
+    div:hover{
+        color: red;
+    }
+</style>
+</head>
+<body>
+    <h1>Exemplo de hover</h1>
+    <p>Passe o mause sbre o texto abaixo</p>
+    <div>Passe o mause aqui!
+        <p>Testo Escondido...</p>
+    </div>
+</body>
+</html>
