@@ -1,0 +1,30 @@
+@charset "UTF-8"; /* regra para ser conpativel com acentuação*/
+
+/* tudo em HTML receber "id" em CSS será "#" deve ser utilizado somente em um elemento
+   tudo em HTML receber "class" em CSS será "." pode ser utilizado em varios elementos
+   um elemento pode carregar tanto uma id como class*/
+body{
+    background-color: rgb(158, 248, 178);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(29, 173, 10);
+}
+h1#principal{ /*seletor personalizado por id  #  */
+    text-align: center;
+}
+h2{
+    color: rgb(29, 173, 10);
+}
+.basico{ /* seletor personalizado por class  .  */
+    color: rgb(157, 173, 10);
+}
+.intermediario{
+    color: rgb(10, 81, 173);
+}
+.avancado{
+    color: rgb(154, 10, 173);
+}
+.destaque{
+    background-color: rgba(144, 150, 60, 0.575);
+}
