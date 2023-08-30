@@ -156,3 +156,7 @@ Modulo 2
       Implementação de pseudo-class utilizando :
       Implementação de pseudo-element utilizando ::
       implementação de elementos filhos utilizando o >
+   Ex 21 Resumos:
+      Oque são caixas em HTML e CSS e suas anatomias
+      tippos de caixas e suas funções
+      como utilizar a ferramenta Devtools do Chrome para editar as CSS de um site.
