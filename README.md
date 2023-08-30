@@ -148,3 +148,11 @@ Modulo 2
       https://www.whatfontis.com
       https://www.fontsquirrel.com
       https://www.myfonts.com
+   Ex 19 Resumos:
+      Regra charset "UTF8" nas CSS para se compativel com aracteres especiais
+      seletor personalizado por id com #
+      seletor personalizado por class com .
+   Ex 20 Resumos:
+      Implementação de pseudo-class utilizando :
+      Implementação de pseudo-element utilizando ::
+      implementação de elementos filhos utilizando o >
