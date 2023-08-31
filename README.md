@@ -160,3 +160,5 @@ Modulo 2
       Oque são caixas em HTML e CSS e suas anatomias
       tippos de caixas e suas funções
       como utilizar a ferramenta Devtools do Chrome para editar as CSS de um site.
+      configurações do boxsizeing
+      como configurar os paremetros do padding, border e margin com shorthands
