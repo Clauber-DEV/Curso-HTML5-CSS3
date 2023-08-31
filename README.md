@@ -162,3 +162,4 @@ Modulo 2
       como utilizar a ferramenta Devtools do Chrome para editar as CSS de um site.
       configurações do boxsizeing
       como configurar os paremetros do padding, border e margin com shorthands
+      Grupamentos de tags e suas funcionalidades.
