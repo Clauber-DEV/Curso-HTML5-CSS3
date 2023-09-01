@@ -1,57 +1,81 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gruping Tags</title>
     <style>
-        body{
+        body {
             background-color: rgb(138, 139, 139);
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             margin: 0px;
         }
-        h1{
+
+        h1 {
             text-align: center;
         }
-        nav{
+
+        nav {
             background-color: darkgray;
             padding: 3px;
-            box-shadow: 1px 1px 1px black; /* sequencia de parametros: delocamento horizontal, deslocamento vertical, blur, spread, cor, inset e outset*/
+            box-shadow: 1px 1px 1px black;
+            /* sequencia de parametros: delocamento horizontal, deslocamento vertical, blur, spread, cor, inset e outset*/
         }
-        nav > a{
+
+        nav>a {
             text-decoration: none;
             color: rgb(255, 255, 255);
             font-weight: bold;
             margin-right: 30px;
-            
+
         }
-        nav > a:hover{
+
+        nav>a:hover {
             text-decoration: underline;
         }
-        main{
+
+        main {
             background-color: aliceblue;
             padding: 10px;
             margin: 10px;
+            border-radius: 20px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
         }
-        article{
+
+        article {
             background-color: aliceblue;
             padding: 5px;
         }
-        article > aside{
+
+        article>aside {
             background-color: rgb(199, 203, 206);
         }
-        footer{
+
+        footer {
             background-color: rgb(0, 0, 0);
             color: rgba(240, 248, 255, 0.774);
             text-align: center;
             padding: 3px;
             margin: 0px;
         }
-        footer > p{
+
+        footer>p {
             margin: 0px;
+        }
+        div#bola { /* Como formar uma bola */
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            background-color: aliceblue;
+            border-radius: 100%;
         }
     </style>
 </head>
+
 <body>
     <header>
         <h1>Ultimas notícias</h1>
@@ -74,7 +98,9 @@
             </article>
             <article>
                 <h1>Artigos sobre o Brazil</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi doloremque consequuntur sapiente nulla debitis perspiciatis qui maiores? Eum iusto expedita id alias quisquam, blanditiis aspernatur sapiente ducimus culpa itaque ipsam.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi doloremque consequuntur sapiente
+                    nulla debitis perspiciatis qui maiores? Eum iusto expedita id alias quisquam, blanditiis aspernatur
+                    sapiente ducimus culpa itaque ipsam.</p>
                 <aside>
                     <p><small>Artigo escrito por Guanabara.</small></p>
                 </aside>
@@ -84,5 +110,7 @@
     <footer>
         <p><small>@Clauber-CP</small></p>
     </footer>
+    <div id="bola"></div>
 </body>
+
 </html>

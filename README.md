@@ -164,3 +164,5 @@ Modulo 2
       como configurar os paremetros do padding, border e margin com shorthands
       Grupamentos de tags e suas funcionalidades.
       implementação de sombras em caixas e seus paramentros com auxilio do devtoos
+      inplementação de bordas arredondadas
+      como criar uma bola
