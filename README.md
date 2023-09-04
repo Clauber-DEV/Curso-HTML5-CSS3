@@ -145,9 +145,9 @@ Modulo 2
       como baixar e armazenar a fonte nos arquivos dos site.
       Como pegar a fontes e suas propriedades com a extenção font nina do Google.
       Como retirar uma fonte de uma imagem por meio de três sites:
-      https://www.whatfontis.com
-      https://www.fontsquirrel.com
-      https://www.myfonts.com
+      <https://www.whatfontis.com>
+      <https://www.fontsquirrel.com>
+      <https://www.myfonts.com>
    Ex 19 Resumos:
       Regra charset "UTF8" nas CSS para se compativel com aracteres especiais
       seletor personalizado por id com #
