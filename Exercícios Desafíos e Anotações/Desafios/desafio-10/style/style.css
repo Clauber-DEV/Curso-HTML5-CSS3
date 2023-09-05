@@ -1,10 +1,10 @@
-@charset "UTF-8";
+@charset "UTF-8"; /* regra para suporte a caracteres com acentos.*/
 
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); /*importação de fonte externa*/
 
 
-@font-face {
+@font-face { /*Importaçã de fonte interna*/
     font-family: 'Android';
     src: url('../fontes/idroid.otf') format('opentype');
     /* comando " .. " serve para mandar voltar a pasta antarior ao arquivo atual*/
@@ -13,13 +13,15 @@
 
 :root {
     /* Bloco para declaração de variáveis dever ser declarada com --variavel: */
+    /* Variaveis de cores*/
     --cor0: #c5ebd6;
-    --cor1: #83e1ed;
+    --cor1: #83e1ad;
     --cor2: #3ddc84;
     --cor3: #2fa866;
     --cor4: #1a5c37;
     --cor5: #063d16;
 
+    /* Variaveis de fontes*/
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', sans-serif, cursive;
     --fonte-android: 'Android', cursive;
@@ -79,9 +81,9 @@ nav>a {
     color: var(--cor2);
     padding: 10px;
     border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    transition-duration: .3s;
+    text-decoration: none; /* decoração ou ornamentação do texto */
+    font-weight: bold; /* grossura da fonte */
+    transition-duration: .3s; /* tempo de transição*/
 }
 
 nav>a:hover {
@@ -90,14 +92,14 @@ nav>a:hover {
 }
 
 main {
-    min-width: 320px;
-    max-width: 1000px;
-    margin: auto;
-    margin-bottom: 30px;
-    background-color: white;
-    padding: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.342);
-    border-bottom-left-radius: 10px;
+    min-width: 320px; /*largura minima*/
+    max-width: 1000px; /* largura maxima*/
+    margin: auto; /* margem*/
+    margin-bottom: 30px; /* margem inferior */
+    background-color: white; /* cor de fundo*/
+    padding: 20px; /* preenchimento*/
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.342); /* caixa de sombra */
+    border-bottom-left-radius: 10px; /* borda inferior esquerda arredondada */
     border-bottom-right-radius: 10px;
 }
 
@@ -105,23 +107,23 @@ main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
-    font-size: 1.8em;
+    font-size: 1.8em; /* tamanho da fonte */
 }
 
 main h2 {
     font-family: var(--fonte-android);
     color: var(--cor4);
     font-size: 1.3em;
-    font-weight: normal;
+    font-weight: normal; 
     background-image: linear-gradient(to right, var(--cor0), transparent);
-    text-indent: 8px;
+    text-indent: 8px; /*recuo do texto*/
 }
 
 main p {
     margin: 15px 0px;
     text-align: justify;
     text-indent: 30px;
-    line-height: 1.5em;
+    line-height: 1.5em; /* autura da linha*/
     font-size: 1em;
 }
 
@@ -151,7 +153,7 @@ main img {
 
 main img.pequena {
     max-width: 350px;
-    display: block;
+    display: block; /* mostrar */
     margin: auto;
 }
 
@@ -165,10 +167,10 @@ div.video {
 
 div.video>iframe {
     position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
+    top: 5%; /* topo */
+    left: 5%; /* esquerda*/
+    width: 90%; /* largura */
+    height: 90%; /* altura*/
 }
 
 aside {
@@ -188,8 +190,8 @@ aside>h3 {
 
 aside>ul {
     list-style-type: '\2714\00A0\00A0';
-    list-style-position: inside;
-    columns: 2;
+    list-style-position: inside; /* inside == dentro*/
+    columns: 2; /*colunas*/
 }
 
 footer {
@@ -202,7 +204,7 @@ footer {
 
 footer a {
     color: rgb(255, 255, 255);
-    font-weight: bolder;
+    font-weight: bolder; /* ousado*/
     text-decoration: none;
 }
 
