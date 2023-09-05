@@ -74,12 +74,6 @@
 
       link para downloads e parâmetros e arquivos
 
-   Anotações extras:
-
-      atalho para atribuir uma tag rapidamente em um texto utilizando os comandos:
-
-      selecione o texto que queira atribuir a tag e digite, Control + Alt + p, selecione a opção wrap with abbreviation, digite a tag que deseja e parte ENTER.
-
    Ex 11 resumos:
 
       Foi explicado o conceito de tamanho de imagens para um site e foram geradas três imagens de tamanhos diferentes e como faz para o site carregar a imagem conforme o tamanho da tela.
@@ -113,6 +107,12 @@
       Como utilizar estilos externos onde se cria um arquivo somente de CSS que pode ser utilizado em todas as páginas do site criando um link nas páginas de HTML.
 
       obs.: todas as técnicas podem ser utilizadas simultaneamente em um projeto.
+
+   Anotações extras Mod 01:
+
+      atalho para atribuir uma tag rapidamente em um texto utilizando os comandos:
+
+      selecione o texto que queira atribuir a tag e digite, Control + Alt + p, selecione a opção wrap with abbreviation, digite a tag que deseja e parte ENTER.
 
 Modulo 2
 
@@ -167,3 +167,7 @@ Modulo 2
       inplementação de bordas arredondadas
       como criar uma bola
       Como utilizar uma imagem como borda
+
+   Anotações extras Mod 02:
+      site para contrução e elaboração de um site <https://wireframepro.mockflow.com>
+      site para elaborar paleta de cores <https://color.adobe.com/pt/trends/Fashion>
