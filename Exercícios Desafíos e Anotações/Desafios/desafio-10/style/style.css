@@ -1,10 +1,13 @@
-@charset "UTF-8"; /* regra para suporte a caracteres com acentos.*/
+@charset "UTF-8";
+/* regra para suporte a caracteres com acentos.*/
 
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); /*importação de fonte externa*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/*importação de fonte externa*/
 
 
-@font-face { /*Importaçã de fonte interna*/
+@font-face {
+    /*Importaçã de fonte interna*/
     font-family: 'Android';
     src: url('../fontes/idroid.otf') format('opentype');
     /* comando " .. " serve para mandar voltar a pasta antarior ao arquivo atual*/
@@ -81,9 +84,12 @@ nav>a {
     color: var(--cor2);
     padding: 10px;
     border-radius: 5px;
-    text-decoration: none; /* decoração ou ornamentação do texto */
-    font-weight: bold; /* grossura da fonte */
-    transition-duration: .3s; /* tempo de transição*/
+    text-decoration: none;
+    /* decoração ou ornamentação do texto */
+    font-weight: bold;
+    /* grossura da fonte */
+    transition-duration: .3s;
+    /* tempo de transição*/
 }
 
 nav>a:hover {
@@ -92,14 +98,22 @@ nav>a:hover {
 }
 
 main {
-    min-width: 320px; /*largura minima*/
-    max-width: 1000px; /* largura maxima*/
-    margin: auto; /* margem*/
-    margin-bottom: 30px; /* margem inferior */
-    background-color: white; /* cor de fundo*/
-    padding: 20px; /* preenchimento*/
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.342); /* caixa de sombra */
-    border-bottom-left-radius: 10px; /* borda inferior esquerda arredondada */
+    min-width: 320px;
+    /*largura minima*/
+    max-width: 1000px;
+    /* largura maxima*/
+    margin: auto;
+    /* margem*/
+    margin-bottom: 30px;
+    /* margem inferior */
+    background-color: white;
+    /* cor de fundo*/
+    padding: 20px;
+    /* preenchimento*/
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.342);
+    /* caixa de sombra */
+    border-bottom-left-radius: 10px;
+    /* borda inferior esquerda arredondada */
     border-bottom-right-radius: 10px;
 }
 
@@ -107,23 +121,26 @@ main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
-    font-size: 1.8em; /* tamanho da fonte */
+    font-size: 1.8em;
+    /* tamanho da fonte */
 }
 
 main h2 {
     font-family: var(--fonte-android);
     color: var(--cor4);
     font-size: 1.3em;
-    font-weight: normal; 
+    font-weight: normal;
     background-image: linear-gradient(to right, var(--cor0), transparent);
-    text-indent: 8px; /*recuo do texto*/
+    text-indent: 8px;
+    /*recuo do texto*/
 }
 
 main p {
     margin: 15px 0px;
     text-align: justify;
     text-indent: 30px;
-    line-height: 1.5em; /* autura da linha*/
+    line-height: 1.5em;
+    /* autura da linha*/
     font-size: 1em;
 }
 
@@ -153,7 +170,8 @@ main img {
 
 main img.pequena {
     max-width: 350px;
-    display: block; /* mostrar */
+    display: block;
+    /* mostrar */
     margin: auto;
 }
 
@@ -167,10 +185,14 @@ div.video {
 
 div.video>iframe {
     position: absolute;
-    top: 5%; /* topo */
-    left: 5%; /* esquerda*/
-    width: 90%; /* largura */
-    height: 90%; /* altura*/
+    top: 5%;
+    /* topo */
+    left: 5%;
+    /* esquerda*/
+    width: 90%;
+    /* largura */
+    height: 90%;
+    /* altura*/
 }
 
 aside {
@@ -190,8 +212,10 @@ aside>h3 {
 
 aside>ul {
     list-style-type: '\2714\00A0\00A0';
-    list-style-position: inside; /* inside == dentro*/
-    columns: 2; /*colunas*/
+    list-style-position: inside;
+    /* inside == dentro*/
+    columns: 2;
+    /*colunas*/
 }
 
 footer {
@@ -204,7 +228,8 @@ footer {
 
 footer a {
     color: rgb(255, 255, 255);
-    font-weight: bolder; /* ousado*/
+    font-weight: bolder;
+    /* ousado*/
     text-decoration: none;
 }
 

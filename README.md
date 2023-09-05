@@ -118,56 +118,100 @@ Modulo 2
 
    Ex 16 Resumos:
 
-      Como utilizar cores em um site e tipos de códigos que as representam no VSCode.
-      A psicologia das cores e seus efeitos quando aplicadas no site e quais melhores formas de utilizalas.
-      Hamonia de cores e quantidade normalmente utilizadas em sites e sites de referencia para fazer paleta de cores.
-      Captura de cores em sites e como aplicalas no próprio site.
-      Como aplicar efeito dégradê.
-      Exemplo de site harmônico.
+      Como utilizar cores em um site e tipos de códigos que as representam no VSCode. 
+
+      A psicologia das cores e seus efeitos quando aplicadas no site e quais melhores formas de utilizadas. 
+
+      Harmonia de cores e quantidade normalmente utilizadas em sites e sites de referência para fazer paleta de cores. 
+
+      Captura de cores em sites e como aplicá-las no próprio site. 
+
+      Como aplicar efeito degradê. 
+
+      Exemplo de site harmônico. 
 
    Ex 17 Resumos:
 
-      Surgimento da tipografia a origem da imprensa de tipos moveis criada pelo Gutenberg para otimozar a fabricação de livros.
-      Ensinado a buscar três conseitos básicos Boas cores, boas imagem e boas letras.
-      Anatomia das letras com os parametros métricos, altura X altura maiuscula, linha acendente, linha descendente e altura do corpo.
-      parametros anatõmicos, serifa, sem serifa, anco, esporão, arco, vertice, calda, terminal, braço, pé, espinha, barriga e olho.
-      Glifos que juntos formam uma fonte que serve de referencia para utilizar no site.
-      fontes com famílias tipográfica e sem famílias tipográfia.
-      catgoria de fontes, serifadas, sem serifas == sans-serif, mono espaçada, escrito a mão == handwriting e comemorativo == display.
-      Fontes, suas famílias e seus efeitos na pagina e como aplicar no CSS.
-      site de referencia de fontes https://www.w3schools.com/js/default.asp
-      Tamanho de fontes, seus parametros e referencias.
-      peso de fontes e implementação de fontes em shothands
+      Surgimento da tipografia a origem da imprensa de tipos moveis criada pelo Gutenberg para otimizar a fabricação de livros. 
+
+      Ensinado a buscar três conceitos básicos Boas cores, boas imagem e boas letras. 
+
+      Anatomia das letras com os parâmetros métricos, altura X altura maiúscula, linha ascendente, linha descendente e altura do corpo. 
+
+      parâmetros anatômicos, serifa, sem serifa, anco, esporão, arco, vértice, calda, terminal, braço, pé, espinha, barriga e olho. 
+
+      Glifos que juntos formam uma fonte que serve de referência para utilizar no site. 
+
+      fontes com famílias tipográfica e sem famílias tipografia. 
+
+      categoria de fontes, serifadas, sem serifas == sans-serif, mono espaçada, escrito à mão == handwriting e comemorativo == display. 
+
+      Fontes, suas famílias e seus efeitos na página e como aplicar no CSS. 
+
+      site de referência de fontes https://www.w3schools.com/js/default.asp 
+
+      Tamanho de fontes, seus parâmetros e referencias. 
+
+      peso de fontes e implementação de fontes em shothands 
 
    Ex 18 Resumos:
-      Implementação de fontes externas utilizando o site Google Fontes sendo carregadas online
-      Implementação de fontes externas utilizando o site dafont.
-      como baixar e armazenar a fonte nos arquivos dos site.
-      Como pegar a fontes e suas propriedades com a extenção font nina do Google.
-      Como retirar uma fonte de uma imagem por meio de três sites:
-      <https://www.whatfontis.com>
-      <https://www.fontsquirrel.com>
-      <https://www.myfonts.com>
+
+      Implementação de fontes externas utilizando o site Google Fontes sendo carregadas online 
+
+      Implementação de fontes externas utilizando o site dafont. 
+
+      como baixar e armazenar a fonte nos arquivos do site. 
+
+      Como pegar a fontes e suas propriedades com a extensão font ninja do Google. 
+
+      Como retirar uma fonte de uma imagem por meio de três sites: 
+
+      <https://www.whatfontis.com> 
+
+      <https://www.fontsquirrel.com> 
+
+      <https://www.myfonts.com> 
+
    Ex 19 Resumos:
-      Regra charset "UTF8" nas CSS para se compativel com aracteres especiais
-      seletor personalizado por id com #
-      seletor personalizado por class com .
+
+      Regra charset "UTF8" nas CSS para se compatível com caracteres especiais 
+
+      seletor personalizado por id com # 
+
+      seletor personalizado por class com . 
+
    Ex 20 Resumos:
-      Implementação de pseudo-class utilizando :
-      Implementação de pseudo-element utilizando ::
-      implementação de elementos filhos utilizando o >
+
+      Implementação de pseudo-class utilizando : 
+
+      Implementação de pseudo-element utilizando :: 
+
+      implementação de elementos filhos utilizando o > 
+
    Ex 21 Resumos:
-      Oque são caixas em HTML e CSS e suas anatomias
-      tippos de caixas e suas funções
-      como utilizar a ferramenta Devtools do Chrome para editar as CSS de um site.
-      configurações do boxsizeing
-      como configurar os paremetros do padding, border e margin com shorthands
-      Grupamentos de tags e suas funcionalidades.
-      implementação de sombras em caixas e seus paramentros com auxilio do devtoos
-      inplementação de bordas arredondadas
-      como criar uma bola
-      Como utilizar uma imagem como borda
+
+      Oque são caixas em HTML e CSS e suas anatomias 
+
+      tipos de caixas e suas funções 
+
+      como utilizar a ferramenta Devtools do Chrome para editar as CSS de um site. 
+
+      configurações do boxsizeing 
+
+      como configurar os parâmetros do padding, border e margin com shorthands 
+
+      Grupamentos de tags e suas funcionalidades. 
+
+      implementação de sombras em caixas e seus parâmetros com auxílio do devtoos 
+
+      implementação de bordas arredondadas 
+
+      como criar uma bola 
+
+      Como utilizar uma imagem como borda 
 
    Anotações extras Mod 02:
-      site para contrução e elaboração de um site <https://wireframepro.mockflow.com>
+
+      site para construção e elaboração de um site <https://wireframepro.mockflow.com> 
+
       site para elaborar paleta de cores <https://color.adobe.com/pt/trends/Fashion>
