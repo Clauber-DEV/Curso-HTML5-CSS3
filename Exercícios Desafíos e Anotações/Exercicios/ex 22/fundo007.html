@@ -1,22 +1,26 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alinhamento vertical</title>
     <style>
-        #container{
+        #container {
             background-image: url(imagens/target001.png);
             background-size: 100% 100%;
-            position: relative; /*todo posicionamento de container é relativo*/
+            position: relative;
+            /*todo posicionamento de container é relativo*/
             height: 500px;
             padding: 10px;
             background-color: blueviolet;
         }
-        #conteudo{
+
+        #conteudo {
             background-image: url(imagens/target001.png);
             background-size: 100% 100%;
-            position: absolute; /*todo posicionamento de conteudo é absoluto*/
+            position: absolute;
+            /*todo posicionamento de conteudo é absoluto*/
             height: 200px;
             width: 400px;
             background-color: yellow;
@@ -29,6 +33,7 @@
         }
     </style>
 </head>
+
 <body>
     <section id="container">
         <article id="conteudo">
@@ -36,4 +41,5 @@
         </article>
     </section>
 </body>
+
 </html>
