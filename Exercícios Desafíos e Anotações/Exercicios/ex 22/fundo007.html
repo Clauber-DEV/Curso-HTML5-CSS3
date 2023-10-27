@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento vertical</title>
+    <style>
+        #container{
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            position: relative; /*todo posicionamento de container é relativo*/
+            height: 500px;
+            padding: 10px;
+            background-color: blueviolet;
+        }
+        #conteudo{
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            position: absolute; /*todo posicionamento de conteudo é absoluto*/
+            height: 200px;
+            width: 400px;
+            background-color: yellow;
+            /* Esse parametro de left e top é referenciado no primeiro pixel a esqueda no topo da imagem*/
+            left: 50%;
+            top: 50%;
+
+            /* esse parametro transform translate muda o ponto de referencia da imagem no caso esqueda-50% e topo -50% acaba ficando no centro */
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
+</body>
+</html>
