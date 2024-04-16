@@ -6,7 +6,7 @@
 }
 body{
     background-image: linear-gradient(to right, #faf4e8, #669BBC); /* fundo em dégradê*/
-    background-attachment: fixed;
+    background-attachment: fixed; /* Deix o background fixo e preenchido não importa o tamanho da tela */
 }
 main{
     background-color: #FDF0D5; /* cor de fundo do main */
