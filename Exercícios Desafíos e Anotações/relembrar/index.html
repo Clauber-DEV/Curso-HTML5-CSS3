@@ -4,20 +4,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trabalhando com links</title>
+    <title>MIdias em HTML5</title>
 </head>
 
 <body>
-    <h1>colocando links:</h1>
-    <p>Está é o link para o <a href="https://www.youtube.com">YouTube</a> sobre pondo esta pagina.</p>
+    <h1>Parei no cap11 aula02</h1>
+    <h1>Imagens dinâmicas</h1>
+    <p>Abrir essas imagens e varios tamanhos diferentes.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/imgP.png" type="image/png">
 
-    <p>esse é o links para o <a href="https://www.youtube.com" target="_blank">YouTube</a> indo para outra pagina.</p>
+        <source media="(max-width: 1050px)" srcset="imagens/imgM.png" type="image/png">
 
-    <h2>Paginas internas:</h2>
-    <p>link para <a href="pag02.html"
-        rel="next">segunda pagina</a>.</p>
-    <p>link para <a href="noticias/noti.html">pagina de notícias.</a></p>
+        <img src="imagens/imgG.png" alt="imagem flexível">
 
+    </picture>
 </body>
 
 </html>
