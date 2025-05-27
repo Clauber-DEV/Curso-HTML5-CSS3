@@ -6,7 +6,7 @@
         }
 
         main {
-            background-color: rgb(248, 248, 248);
+            background-color: rgba(237, 240, 237, 0.918);
             border-radius: 10px;
             width: 500;
             padding: 10px;
@@ -18,9 +18,17 @@
             background-image: linear-gradient(to right, rgb(79, 182, 70), rgb(243, 243, 243));
             text-align: center;
         }
+        h1#pag2{
+            text-align:center;
+           background-image: linear-gradient(to right, rgb(70, 119, 182), rgba(100, 107, 117, 0.37));
+        }
 
         h2 {
             color: rgb(37, 180, 8);
+        }
+        h2#pag2{
+            text-align: justify;
+            color: rgb(0, 4, 255);
         }
 
         p {
@@ -29,5 +37,5 @@
         }
 
         a {
-            color: rgb(7, 209, 209);
+            color: rgb(5, 131, 131);
         }
