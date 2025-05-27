@@ -18,17 +18,9 @@
             background-image: linear-gradient(to right, rgb(79, 182, 70), rgb(243, 243, 243));
             text-align: center;
         }
-        h1#pag2{
-            text-align:center;
-           background-image: linear-gradient(to right, rgb(70, 119, 182), rgba(100, 107, 117, 0.37));
-        }
 
         h2 {
             color: rgb(37, 180, 8);
-        }
-        h2#pag2{
-            text-align: justify;
-            color: rgb(0, 4, 255);
         }
 
         p {
@@ -38,4 +30,36 @@
 
         a {
             color: rgb(5, 131, 131);
+        }
+
+        /* Padina 2 */
+
+
+        h1#titulo {
+            text-align: center;
+            background-image: linear-gradient(to right, rgb(97, 151, 223), rgba(100, 107, 117, 0.37));
+        }
+
+        .subtitulo {
+            text-align: center;
+            background-image: linear-gradient(to right, rgb(70, 119, 182), rgba(100, 107, 117, 0.37));
+        }
+
+        .basico {
+            text-align: justify;
+            color: rgb(0, 4, 255);
+        }
+
+        .intermediario {
+            text-align: justify;
+            color: rgb(0, 4, 255);
+        }
+
+        .avancado {
+            text-align: justify;
+            color: rgb(0, 4, 255);
+        }
+
+        .texto {
+            color: rgb(0, 0, 70);
         }
